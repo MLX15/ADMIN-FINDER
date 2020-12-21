@@ -16,4 +16,3 @@ This tool is used to search for a website login admin, This tool uses the brute 
 
 # Info
  We also provide raw source code, for those who want to develop it.
- Coded with all my heart by Zeerx7
